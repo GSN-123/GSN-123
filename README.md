@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @GSN-123
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
 <!---
 GSN-123/GSN-123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -10,6 +6,11 @@ You can click the Preview link to take a look at your changes.
 # [Dr. Suryanarayana Goddumarri](https://suryanaryana.in) [📫](mailto:surya.aits@gmail.com)
 
 > Teach, Design and Develop applications in **Java**, **Python**, **React**, and C#. Former Graduate Student of Kennedy College of Science at the University of Massachusetts, Lowell.
+
+- 👋 Hi, I’m @GSN-123
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
 
 ## Experience
 
